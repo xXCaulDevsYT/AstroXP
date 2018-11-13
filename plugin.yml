@@ -1,0 +1,6 @@
+name: AstroXP-Addon
+main: EmeraldMC\AstroXP\AstroXP
+version: "1.0"
+api: [3.0.0]
+description: A AstroXP WaterBalloon Hub Minigame Addon!
+author: EmeraldMC
